@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "z/XmS6RhLwt3JztbTrZIj6O/cLo9vMqU+25N1CHusDzfeRgT0i6QIMcxyTpi3hs2wU9qRsyHenRveNt1DnrJ6w==",
+  "dgSpecHash": "LNBS/5JdSCpC7546FRFERd7SOCyPNKjKQqOrf1Wrm550PWOykwpj8Q1kmZi2gniZEIxayzmdl8wvktGchotk7g==",
   "success": true,
-  "projectFilePath": "D:\\Api_NetCore_GraphQL\\src\\Api.Domain\\Domain.csproj",
+  "projectFilePath": "D:\\Api_NetCore_GraphQL\\Api_NetCore_GraphQL\\src\\Api.Domain\\Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Andrei\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.12.2\\microsoft.identitymodel.jsonwebtokens.6.12.2.nupkg.sha512",

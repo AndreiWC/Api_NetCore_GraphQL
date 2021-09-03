@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zX1FMCSRnFmvXryKvzOe5N6v7J78kXbNqLOutuBz82w52ZpacYpG6SOUo7WKbdojY1jiyqcQU9W6XtFl7RCRFA==",
+  "dgSpecHash": "CDNHBQtQyMZn6wR7dwKdBTiuc6qgozbWQAXbXcnRJGzBuYLLAZXH8NpCwssWJhtvWw+UfuORJ0opCq20TnDdTg==",
   "success": true,
-  "projectFilePath": "D:\\Api_NetCore_GraphQL\\src\\Api.CrossCutting\\CrossCutting.csproj",
+  "projectFilePath": "D:\\Api_NetCore_GraphQL\\Api_NetCore_GraphQL\\src\\Api.CrossCutting\\CrossCutting.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Andrei\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\Andrei\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

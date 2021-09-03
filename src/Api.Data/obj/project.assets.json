@@ -5321,11 +5321,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Api_NetCore_GraphQL\\src\\Api.Data\\Data.csproj",
+      "projectUniqueName": "D:\\Api_NetCore_GraphQL\\Api_NetCore_GraphQL\\src\\Api.Data\\Data.csproj",
       "projectName": "Data",
-      "projectPath": "D:\\Api_NetCore_GraphQL\\src\\Api.Data\\Data.csproj",
+      "projectPath": "D:\\Api_NetCore_GraphQL\\Api_NetCore_GraphQL\\src\\Api.Data\\Data.csproj",
       "packagesPath": "C:\\Users\\Andrei\\.nuget\\packages\\",
-      "outputPath": "D:\\Api_NetCore_GraphQL\\src\\Api.Data\\obj\\",
+      "outputPath": "D:\\Api_NetCore_GraphQL\\Api_NetCore_GraphQL\\src\\Api.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5345,8 +5345,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\Api_NetCore_GraphQL\\src\\Api.Domain\\Domain.csproj": {
-              "projectPath": "D:\\Api_NetCore_GraphQL\\src\\Api.Domain\\Domain.csproj"
+            "D:\\Api_NetCore_GraphQL\\Api_NetCore_GraphQL\\src\\Api.Domain\\Domain.csproj": {
+              "projectPath": "D:\\Api_NetCore_GraphQL\\Api_NetCore_GraphQL\\src\\Api.Domain\\Domain.csproj"
             }
           }
         }

@@ -9328,11 +9328,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Api_NetCore_GraphQL\\src\\Api.Application.Test\\Api.Application.Test.csproj",
+      "projectUniqueName": "D:\\Api_NetCore_GraphQL\\Api_NetCore_GraphQL\\src\\Api.Application.Test\\Api.Application.Test.csproj",
       "projectName": "Api.Application.Test",
-      "projectPath": "D:\\Api_NetCore_GraphQL\\src\\Api.Application.Test\\Api.Application.Test.csproj",
+      "projectPath": "D:\\Api_NetCore_GraphQL\\Api_NetCore_GraphQL\\src\\Api.Application.Test\\Api.Application.Test.csproj",
       "packagesPath": "C:\\Users\\Andrei\\.nuget\\packages\\",
-      "outputPath": "D:\\Api_NetCore_GraphQL\\src\\Api.Application.Test\\obj\\",
+      "outputPath": "D:\\Api_NetCore_GraphQL\\Api_NetCore_GraphQL\\src\\Api.Application.Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -9352,14 +9352,14 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\Api_NetCore_GraphQL\\src\\Api.Application\\application.csproj": {
-              "projectPath": "D:\\Api_NetCore_GraphQL\\src\\Api.Application\\application.csproj"
+            "D:\\Api_NetCore_GraphQL\\Api_NetCore_GraphQL\\src\\Api.Application\\application.csproj": {
+              "projectPath": "D:\\Api_NetCore_GraphQL\\Api_NetCore_GraphQL\\src\\Api.Application\\application.csproj"
             },
-            "D:\\Api_NetCore_GraphQL\\src\\Api.Domain\\Domain.csproj": {
-              "projectPath": "D:\\Api_NetCore_GraphQL\\src\\Api.Domain\\Domain.csproj"
+            "D:\\Api_NetCore_GraphQL\\Api_NetCore_GraphQL\\src\\Api.Domain\\Domain.csproj": {
+              "projectPath": "D:\\Api_NetCore_GraphQL\\Api_NetCore_GraphQL\\src\\Api.Domain\\Domain.csproj"
             },
-            "D:\\Api_NetCore_GraphQL\\src\\Api.Service\\Service.csproj": {
-              "projectPath": "D:\\Api_NetCore_GraphQL\\src\\Api.Service\\Service.csproj"
+            "D:\\Api_NetCore_GraphQL\\Api_NetCore_GraphQL\\src\\Api.Service\\Service.csproj": {
+              "projectPath": "D:\\Api_NetCore_GraphQL\\Api_NetCore_GraphQL\\src\\Api.Service\\Service.csproj"
             }
           }
         }

@@ -297,11 +297,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Api_NetCore_GraphQL\\src\\Api.Domain\\Domain.csproj",
+      "projectUniqueName": "D:\\Api_NetCore_GraphQL\\Api_NetCore_GraphQL\\src\\Api.Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "D:\\Api_NetCore_GraphQL\\src\\Api.Domain\\Domain.csproj",
+      "projectPath": "D:\\Api_NetCore_GraphQL\\Api_NetCore_GraphQL\\src\\Api.Domain\\Domain.csproj",
       "packagesPath": "C:\\Users\\Andrei\\.nuget\\packages\\",
-      "outputPath": "D:\\Api_NetCore_GraphQL\\src\\Api.Domain\\obj\\",
+      "outputPath": "D:\\Api_NetCore_GraphQL\\Api_NetCore_GraphQL\\src\\Api.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

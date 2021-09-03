@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uHLx03CgS0yhVkT2fwa5B/u2uLx6UJ+z8VYYeCFnN5Mv9Bn2clpYNcvPS1A8YV7TOWkagXdyDqfwXVEj5OCD/g==",
+  "dgSpecHash": "dxR/iucLqiRHmvrWRX3dIfLrLLHx/1Q5DQZT3ZwNOT0obfiX8cC9dCjpvtdA0Hb2jK2rOXqWtIE20a0d9uZU5w==",
   "success": true,
-  "projectFilePath": "D:\\Api_NetCore_GraphQL\\src\\Api.Service\\Service.csproj",
+  "projectFilePath": "D:\\Api_NetCore_GraphQL\\Api_NetCore_GraphQL\\src\\Api.Service\\Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Andrei\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\Andrei\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",

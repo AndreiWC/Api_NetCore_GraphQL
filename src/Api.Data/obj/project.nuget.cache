@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7r264RLTd9F9i+u4qw9XiuKzGEQKeQXboKy30ycT3Vosq384tJDTcSR1EaBlAAuOlco817c8BRbNVc32sTDmPQ==",
+  "dgSpecHash": "YAQsdORNYo2M1cpSvuhJMigaHT5Bq465hGA/5TH0HijZnu//+qMMXa2HuVW0ZuXKXjpfTXV33BDsXcAgKjuDdg==",
   "success": true,
-  "projectFilePath": "D:\\Api_NetCore_GraphQL\\src\\Api.Data\\Data.csproj",
+  "projectFilePath": "D:\\Api_NetCore_GraphQL\\Api_NetCore_GraphQL\\src\\Api.Data\\Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Andrei\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Andrei\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

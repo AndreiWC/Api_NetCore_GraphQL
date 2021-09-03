@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0A72MBFiFf/BoViPqGok6IPsOIHJdYqERTR9atWsKbXovageT1cm+1PbOGlchJ6Vnlfxf6dN0HlVlHxxS0DRhA==",
+  "dgSpecHash": "187Wtn1wp0OO/K44ZLc2bb7PPucdkWJFKcSQIUPFQ3Fnlqxbq7hR5vHgbIo2cw3rFjJOPxl4FEp4WhHwr6rU1A==",
   "success": true,
-  "projectFilePath": "D:\\Api_NetCore_GraphQL\\src\\Api.Service.Test\\Api.Service.Test.csproj",
+  "projectFilePath": "D:\\Api_NetCore_GraphQL\\Api_NetCore_GraphQL\\src\\Api.Service.Test\\Api.Service.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Andrei\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\Andrei\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
