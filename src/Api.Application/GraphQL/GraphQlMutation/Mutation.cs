@@ -18,6 +18,7 @@ namespace Api.Application.GraphQL.GraphQlMutation
                 Id = id,
                 Email = email
                 
+                
             };
 
             var user = await _service.Put(userDtoCreate);
