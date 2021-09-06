@@ -8,10 +8,11 @@ namespace Api.Application.GraphQL.GraphQlMutation
 {
     public class Mutation
     {
+        private UserDtoUpdate userDtoCreate;
         public async Task<UserDtoUpdateResult> CreatePut([Service] IUserService _service,
           string name, Guid id, string email)
         {
-            UserDtoUpdate  userDtoCreate = new UserDtoUpdate
+         userDtoCreate = new UserDtoUpdate
             {
                 Name = name,
                 Id = id,

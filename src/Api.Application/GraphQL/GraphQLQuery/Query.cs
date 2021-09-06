@@ -14,14 +14,16 @@ namespace Api.Application.GraphQL.GraphQLQuery
 
         public async Task<IEnumerable<UserDto>> GetAllUser([Service] IUserService _userService) => await _userService.GetAll();
 
+        public async Task<UserDto> GetUser([Service] IUserService _userService, Guid id) => await _userService.Get(id);
 
-        public async Task<UserDto> GetUser([Service] IUserService _userService,
-           [Service] ITopicEventSender eventSender, Guid id)
-        {
-            var user = _userService.Get(id);
-            await eventSender.SendAsync("Returneduser", user);
-            return await user;
-        }
+
+        // public async Task<UserDto> GetUser([Service] IUserService _userService,
+        //    [Service] ITopicEventSender eventSender, Guid id) =>  await _userService.Get(id);
+        // {
+        //     var user = await _userService.Get(id);
+        //     await eventSender.SendAsync("Returneduser", user);
+        //     return user;
+        // }
 
     }
 }
